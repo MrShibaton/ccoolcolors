@@ -1,6 +1,6 @@
 a code.org project!!!
 
-![canvas](https://github.com/ccoolcolors/ccoolcolors.github.io/assets/162098427/37fbd304-d912-4c48-84d5-250d333060f4)
+![canvas](https://github.com/MrShibaton/coolcolors/blob/98a35281cb3eaf11316222aa57f0e523784badca/canvas.png)
 
 ---------------------------------------------------------------------------------------
 (this was generated when i exported it to the web)
